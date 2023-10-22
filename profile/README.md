@@ -1,1 +1,3 @@
-# Computationl Biophysics Laboratory @ Sungkyunkwan University
+# Computationl Biophysics Laboratory
+
+Department of Physics, Sungkyunkwan University, Korea
